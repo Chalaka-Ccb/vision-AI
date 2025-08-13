@@ -53,7 +53,7 @@ The final deliverable is a **deployable, real-time image classifier** with a cle
 ## 🚀 How to Run
 ### **1️⃣ Clone the repository**
 
-git clone https://github.com/yourusername/vision-ai-bootcamp.git
+git clone https://github.com/Chalaka-Ccb/vision-ai-bootcamp.git
 cd vision-ai-bootcamp
 
 *Install Requered dependency*
