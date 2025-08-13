@@ -71,13 +71,15 @@ python app.py
 
 ---
 
-## 📌 Features 
+## 📌 Features
 
-**End-to-end ML pipeline: data → training → evaluation → deployment**
-**Clean, web-based frontend for real-time classification**
-**Reproducible and well-documented code**
-**Transfer learning for improved performance**
+-End-to-end ML pipeline: data → training → evaluation → deployment
+-Clean, web-based frontend for real-time classification
+-Multiple datasets for broad model exposure
+-Transfer learning for improved performance
+-Reproducible and well-documented code
 ---
+
 
 ## 🙌 Acknowledgments
 Special thanks to:
