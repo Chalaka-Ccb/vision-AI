@@ -25,6 +25,13 @@ The final deliverable is a **deployable, real-time image classifier** with a cle
 
 ## 🗂️ Project Structure
 
+--ImageRecognized_ML.ipynb
+--imagerecognized_ml.py           (Pyhton script only for local deployment)
+--ReadME
+--VisionAI documentation and Demo video
+  |- powerpoint presentation
+  |- report
+  |- output compress video(Demo video)
 
 
 
