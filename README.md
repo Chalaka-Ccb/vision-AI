@@ -62,18 +62,21 @@ pip install -r requirements.txt
 Launch the Gradio app---
 python app.py
 
+---
 
 Results Summary
 - MNIST Baseline CNN: ~98% accuracy.
 - CIFAR-10 CNN: ~68% accuracy.
 - Cats vs. Dogs MobileNetV2: ~78% accuracy after fine-tuning.
 
+---
 
 📌 Features
 End-to-end ML pipeline: data → training → evaluation → deployment
 Clean, web-based frontend for real-time classification
 Reproducible and well-documented code
 Transfer learning for improved performance
+---
 
 🙌 Acknowledgments
 Special thanks to:
@@ -81,6 +84,7 @@ Special thanks to:
 DevTown Community for organizing the bootcamp
 All mentors and participants for making this learning journey impactful
 
+---
 📬 Contact
 For any questions or collaboration opportunities:
 
