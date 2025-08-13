@@ -64,28 +64,28 @@ python app.py
 
 ---
 
-Results Summary
+## Results Summary
 - MNIST Baseline CNN: ~98% accuracy.
 - CIFAR-10 CNN: ~68% accuracy.
 - Cats vs. Dogs MobileNetV2: ~78% accuracy after fine-tuning.
 
 ---
 
-📌 Features
+## 📌 Features
 End-to-end ML pipeline: data → training → evaluation → deployment
 Clean, web-based frontend for real-time classification
 Reproducible and well-documented code
 Transfer learning for improved performance
 ---
 
-🙌 Acknowledgments
+## 🙌 Acknowledgments
 Special thanks to:
 
 DevTown Community for organizing the bootcamp
 All mentors and participants for making this learning journey impactful
 
 ---
-📬 Contact
+## 📬 Contact
 For any questions or collaboration opportunities:
 
 K.M.Chalaka Chamikara Bandara
